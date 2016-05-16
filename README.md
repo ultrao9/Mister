@@ -8,6 +8,6 @@
  - 회계
  - 전술공유
 
-개발과 관련된 내용은 http://blog.naver.com/ultrao9에 기록합니다
+개발과 관련된 내용은 http://blog.naver.com/ultrao9  개인블로그에 기록합니다
 
 
